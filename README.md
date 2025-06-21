@@ -1,1 +1,5 @@
 # langgraph-supervisor
+
+langgraph_supervisor.create_supervisor を使ってみた
+イメージとしては、langgraph.prebuilt.create_react_agent のツールをagentにした感じ。
+ただし、create_supervisorで作られるのはllmではなく、workflow
